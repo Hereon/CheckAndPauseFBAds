@@ -1,8 +1,6 @@
 const CONFIG = {
   facebook: {
-    appId: 'YOUR_APP_ID',
-    appSecret: 'YOUR_APP_SECRET',
-    shortLivedToken: 'YOUR_SHORT_LIVED_TOKEN',
+    accessToken: 'YOUR_TOKEN',
     adAccounts: [
       {
         id: 'act_XXXXXXXXXXXX',

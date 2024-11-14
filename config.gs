@@ -15,7 +15,7 @@ const CONFIG = {
     daysToLookBack: 7
   },
   email: {
-    recipient: 'hengyan.han@funplus.com',
+    recipient: 'Your_Email',
     subject: 'Facebook Ads Performance Report'
   }
 }; 
